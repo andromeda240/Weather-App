@@ -1,24 +1,17 @@
-# Weather App 🌤️
+# Weather App
 
-A simple **React** web application that shows real-time weather information for any city using the **OpenWeatherMap API**.
+A dynamic **React & JavaScript** app that fetches real-time weather data for cities worldwide.  
 
 ## Features
-
-- Search for any city to get current weather
-- Display temperature, humidity, and wind speed
-- Weather icons for visual representation
-- Search via input box or Enter key
-- Responsive design
+- Search for cities and view temperature, humidity, and weather conditions.  
+- Responsive and interactive user interface.  
 
 ## Tech Stack
-- React
-- JavaScript (ES6+)
-- OpenWeatherMap API
-- CSS
+- React, JavaScript, Vite, CSS, OpenWeatherMap API  
 
-## Installation
-
-1. Clone the repository:
-
+## Run Locally
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/andromeda240/Weather-App.git
+cd Weather-App
+npm install
+npm run dev
